@@ -1,6 +1,6 @@
 # README.md
 
-# 🤖 MLOps Platform Demo
+# 🤖 Intelligent Risk Platform
 
 A comprehensive Streamlit demo showcasing enterprise MLOps capabilities including real-time fraud detection, customer service AI, and advanced monitoring & alerting systems.
 
